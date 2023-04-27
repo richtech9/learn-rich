@@ -2,9 +2,9 @@
   <section class="u-section-padding">
     <div class="l-wrap">
       <!-- BACK HOME -->
-      <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline"
-        >Back home</router-link
-      >
+      <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline">
+        &lt; Home
+      </router-link>
 
       <div class="c-table-responsive">
         <table class="c-table">
@@ -410,20 +410,19 @@
           <h3 class="u-mb-20">WordPress learning resources</h3>
           <ul>
             <li>
-              <a href="https://developer.wordpress.org/reference/"
-                >WordPress Reference</a
-              >
+              <a href="https://developer.wordpress.org/reference/">
+                WordPress Reference
+              </a>
             </li>
             <li>
-              <a
-                href="https://learnwith.hasinhayder.com/wp/shop/wordpress-theme-development/"
-                >Learn With Hasin Hayder</a
-              >
+              <a href="https://learnwith.hasinhayder.com/wp/shop/wordpress-theme-development/">
+                Learn With Hasin Hayder
+              </a>
             </li>
             <li>
-              <a href="https://websitesetup.org/"
-                >How to Create a Website using WordPress</a
-              >
+              <a href="https://websitesetup.org/">
+                How to Create a Website using WordPress
+              </a>
             </li>
           </ul>
         </div>

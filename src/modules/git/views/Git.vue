@@ -2,9 +2,9 @@
   <section class="u-section-padding">
     <div class="l-wrap">
       <!-- BACK HOME -->
-      <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline"
-        >Back home</router-link
-      >
+      <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline">
+        &lt; Home
+      </router-link>
 
       <div class="c-table-responsive">
         <table class="c-table">
@@ -187,9 +187,9 @@
           <tbody>
             <tr>
               <td>
-                <a href="https://guides.github.com/introduction/git-handbook/"
-                  >Git Handbook ( From GitHub )</a
-                >
+                <a href="https://guides.github.com/introduction/git-handbook/">
+                  Git Handbook ( From GitHub )
+                </a>
               </td>
             </tr>
           </tbody>

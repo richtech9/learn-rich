@@ -2,9 +2,9 @@
   <div class="u-section-padding">
     <div class="l-wrap">
       <!-- BACK HOME -->
-      <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline"
-        >Back home</router-link
-      >
+      <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline">
+        &lt; Home
+      </router-link>
 
       <!-- Web vs HTML Email -->
       <div class="c-table-responsive">

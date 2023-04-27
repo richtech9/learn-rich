@@ -3,9 +3,9 @@
     <div class="l-wrap">
       <div>
         <!-- BACK HOME -->
-        <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline"
-          >Back home</router-link
-        >
+        <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline">
+          &lt; Home
+        </router-link>
 
         <article class="c-copy">
           <!-- PHP Overview -->

@@ -14,9 +14,9 @@
                     <ol>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview"
-                          >Start here. Read me first!</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview">
+                          Start here. Read me first!
+                        </a>
                       </li>
                     </ol>
                   </li>
@@ -25,9 +25,9 @@
                     <ol>
                       <li>
                         <a
-                          href="http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/"
-                          >Core JavaScript</a
-                        >
+                          href="http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/">
+                          Core JavaScript
+                        </a>
                         ( ECMAScript )
                       </li>
                       <li>Client Side JavaScript ( Browser )</li>
@@ -36,9 +36,9 @@
                   </li>
                   <li>
                     <a
-                      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar"
-                      >Lexical Structure</a
-                    >
+                      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar">
+                      Lexical Structure
+                    </a>
                     <ol>
                       <li>Character Set</li>
                       <li>Comments</li>
@@ -50,24 +50,24 @@
                   </li>
                   <li>
                     <a
-                      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures"
-                      >Data, Values, and Variables</a
-                    >
+                      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">
+                      Data, Values, and Variables
+                    </a>
                     <ol>
                       <li>
                         Numbers (
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number"
-                          >Number</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number">
+                          Number
+                        </a>
                         )
                       </li>
                       <li>
                         Text (
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String"
-                          >String</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String">
+                          String
+                        </a>
                         )
                         <ol>
                           <li>Single Quote String ( ' ... ' )</li>
@@ -85,9 +85,9 @@
                       <li>Type Conversions</li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Declarations"
-                          >Variable Declaration</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Declarations">
+                          Variable Declaration
+                        </a>
                         <ol>
                           <li>Let</li>
                           <li>Const</li>
@@ -96,9 +96,9 @@
                       </li>
                       <li>
                         <a
-                          href="https://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript"
-                          >Variable Scope</a
-                        >
+                          href="https://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript">
+                          Variable Scope
+                        </a>
                         <ol>
                           <li>Global Scope</li>
                           <li>Local Scope</li>
@@ -106,18 +106,18 @@
                       </li>
                       <li>
                         <a
-                          href="https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript"
-                          >Hoisting</a
-                        >
+                          href="https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript">
+                          Hoisting
+                        </a>
                       </li>
                       <li>Variable Shadowing</li>
                     </ol>
                   </li>
                   <li>
                     <a
-                      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators"
-                      >Expressions and Operators</a
-                    >
+                      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators">
+                      Expressions and Operators
+                    </a>
                     <ol>
                       <li>Primary Expressions</li>
                       <li>Object and Array Initializers</li>
@@ -134,9 +134,9 @@
                       <li>Miscellaneous Operators</li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence#Table"
-                          >Operator Precedence Table</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence#Table">
+                          Operator Precedence Table
+                        </a>
                       </li>
                     </ol>
                   </li>
@@ -254,9 +254,9 @@
                       <li>String Methods for Pattern Matching</li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
-                          >The RegExp Object</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp">
+                          The RegExp Object
+                        </a>
                       </li>
                     </ol>
                   </li>
@@ -265,9 +265,9 @@
                     <ol>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String"
-                          >String</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String">
+                          String
+                        </a>
                         <ol>
                           <li>toUpperCase()</li>
                           <li>toLowerCase()</li>
@@ -279,9 +279,9 @@
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"
-                          >Array</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">
+                          Array
+                        </a>
                         <ol>
                           <li>push()</li>
                           <li>pop()</li>
@@ -302,33 +302,33 @@
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"
-                          >JSON</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON">
+                          JSON
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number"
-                          >Number</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number">
+                          Number
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"
-                          >Object</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object">
+                          Object
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function"
-                          >Function</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function">
+                          Function
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math"
-                          >Math</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math">
+                          Math
+                        </a>
                         <ol>
                           <li>Math.random()</li>
                           <li>Math.floor()</li>
@@ -338,21 +338,21 @@
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date"
-                          >Date</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date">
+                          Date
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
-                          >RegExp</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp">
+                          RegExp
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
-                          >Promise</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise">
+                          Promise
+                        </a>
                       </li>
                     </ol>
                   </li>
@@ -361,28 +361,28 @@
                     <ol>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"
-                          >JavaScript Reference</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">
+                          JavaScript Reference
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index"
-                          >JavaScript properties index</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index">
+                          JavaScript properties index
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index"
-                          >JavaScript methods index</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index">
+                          JavaScript methods index
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Glossary"
-                          >MDN Web Docs Glossary: Definitions of Web-related
-                          terms</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Glossary">
+                          MDN Web Docs Glossary: Definitions of Web-related
+                          terms
+                        </a>
                       </li>
                     </ol>
                   </li>
@@ -398,28 +398,28 @@
                     DOM Tutorials
                     <ol>
                       <li>
-                        <a href="https://javascript.info/document"
-                          >Everything you need to know about DOM ( Must Visit
-                          )</a
-                        >
+                        <a href="https://javascript.info/document">
+                          Everything you need to know about DOM ( Must Visit
+                          )
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://www.digitalocean.com/community/tutorials/introduction-to-the-dom"
-                          >Introduction to the DOM</a
-                        >
+                          href="https://www.digitalocean.com/community/tutorials/introduction-to-the-dom">
+                          Introduction to the DOM
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction"
-                          >Introduction to the DOM ( MDN )</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">
+                          Introduction to the DOM ( MDN )
+                        </a>
                       </li>
                       <li>
                         <a
                           href="https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes"
-                        ></a
-                        >Understanding the DOM Tree and Nodes
+                        >
+                        </a>Understanding the DOM Tree and Nodes
                       </li>
                     </ol>
                   </li>
@@ -428,9 +428,9 @@
                     <ol>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/API/Window"
-                          >Window ( Host Object )</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/API/Window">
+                          Window ( Host Object )
+                        </a>
                         <ol>
                           <li>
                             <a
@@ -442,15 +442,15 @@
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"
-                          >DOM Documentation</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">
+                          DOM Documentation
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/API/Document"
-                          >Document</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/API/Document">
+                          Document
+                        </a>
                         <ol>
                           <li>textContent</li>
                           <li>value</li>
@@ -472,9 +472,9 @@
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage"
-                          >localStorage</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage">
+                          localStorage
+                        </a>
                         <ol>
                           <li>setItem()</li>
                           <li>getItem()</li>
@@ -484,9 +484,9 @@
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/API/Location"
-                          >Location</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/API/Location">
+                          Location
+                        </a>
                       </li>
                     </ol>
                   </li>
@@ -495,15 +495,15 @@
                     <ol>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/API/Event"
-                          >Event</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/API/Event">
+                          Event
+                        </a>
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/Guide/Events"
-                          >Event Developer Guide</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/Guide/Events">
+                          Event Developer Guide
+                        </a>
                         <ol>
                           <li>click</li>
                           <li>change</li>
@@ -514,17 +514,17 @@
                       </li>
                       <li>
                         <a
-                          href="https://developer.mozilla.org/en-US/docs/Web/Events"
-                          >Event reference</a
-                        >
+                          href="https://developer.mozilla.org/en-US/docs/Web/Events">
+                          Event reference
+                        </a>
                       </li>
                     </ol>
                   </li>
                   <li>
                     <a
-                      href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX"
-                      >AJAX</a
-                    >
+                      href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX">
+                      AJAX
+                    </a>
                   </li>
                   <li>
                     Making HTTP Request from JavaScript (Asynchronous

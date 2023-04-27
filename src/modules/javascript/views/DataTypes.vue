@@ -28,15 +28,15 @@
                 <ul class="u-mt-20 u-pl-20">
                   <li>
                     <a
-                      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures"
-                      >Read MDN on data types in JavaScript</a
-                    >
+                      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">
+                      Read MDN on data types in JavaScript
+                    </a>
                   </li>
                   <li>
                     <a
-                      href="https://codeburst.io/javascript-data-types-explained-347555cd2d4d"
-                      >Read Codburst blog post on Medium</a
-                    >
+                      href="https://codeburst.io/javascript-data-types-explained-347555cd2d4d">
+                      Read Codburst blog post on Medium
+                    </a>
                   </li>
                 </ul>
               </div>

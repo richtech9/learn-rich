@@ -3,9 +3,9 @@
     <section class="u-section-padding">
       <div class="l-wrap">
         <!-- BACK HOME -->
-        <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline"
-          >Back home</router-link
-        >
+        <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline">
+          &lt; Home
+        </router-link>
 
         <!-- MOST USED UNIX COMMANDS -->
         <div class="c-table-responsive">

@@ -2,9 +2,9 @@
   <div class="u-section-padding">
     <div class="l-wrap">
       <!-- BACK HOME -->
-      <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline"
-        >Back home</router-link
-      >
+      <router-link :to="{ name: 'Home' }" class="u-mb-20 u-text-underline">
+        &lt; Home
+      </router-link>
 
       <!-- Learn rich Vim -->
       <div class="c-table-responsive">
@@ -172,96 +172,75 @@
             </tr>
             <tr>
               <td colspan="2">
-                <a href="https://cssreference.io/css-grid/" target="_blank"
-                  >https://cssreference.io/css-grid/</a
-                >
+                <a href="https://cssreference.io/css-grid/" target="_blank">
+                  https://cssreference.io/css-grid/
+                </a>
               </td>
             </tr>
             <tr>
               <td colspan="2">
-                <a
-                  href="https://css-tricks.com/snippets/css/complete-guide-grid/"
-                  target="_blank"
-                  >A Complete Guide to CSS Grid by
-                  <strong>CSS Tricks</strong></a
-                >
+                <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank">
+                  A Complete Guide to CSS Grid by <strong>CSS Tricks</strong>
+                </a>
               </td>
             </tr>
             <tr>
               <td colspan="2">
-                <a
-                  href="https://mozilladevelopers.github.io/playground/css-grid"
-                  target="_blank"
-                  >Introduction to css grid layout on
-                  <strong>Mozilla Playground</strong></a
-                >
+                <a href="https://mozilladevelopers.github.io/playground/css-grid" target="_blank">
+                  Introduction to css grid layout on <strong>Mozilla Playground</strong>
+                </a>
               </td>
             </tr>
             <tr>
               <td colspan="2">
-                <a href="https://gridbyexample.com/what/" target="_blank"
-                  >Grid by Example</a
-                >
+                <a href="https://gridbyexample.com/what/" target="_blank">Grid by Example</a>
               </td>
             </tr>
             <tr>
               <td colspan="2">
-                <a
-                  href="https://alistapart.com/article/the-story-of-css-grid-from-its-creators/"
-                  target="_blank"
-                  >The Story of CSS Grid, <strong>from Its Creators</strong></a
-                >
+                <a href="https://alistapart.com/article/the-story-of-css-grid-from-its-creators/" target="_blank">
+                  The Story of CSS Grid, <strong>from Its Creators</strong>
+                </a>
               </td>
             </tr>
             <tr>
               <td colspan="2">
-                <a
-                  href="https://www.smashingmagazine.com/2018/05/guide-css-layout/"
-                  target="_blank"
-                  >Getting Started With CSS Layout on
-                  <strong>Smashing Magazine</strong></a
-                >
+                <a href="https://www.smashingmagazine.com/2018/05/guide-css-layout/" target="_blank">
+                  Getting Started With CSS Layout on <strong>Smashing Magazine</strong>
+                </a>
               </td>
             </tr>
             <tr>
               <td colspan="2">
-                <a
-                  href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout"
-                  target="_blank"
-                  >CSS Grid Layout on <strong>MDN</strong></a
-                >
+                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout" target="_blank">
+                  CSS Grid Layout on <strong>MDN</strong>
+                </a>
               </td>
             </tr>
             <tr>
               <td colspan="2">
-                <a href="https://cssgrid.io/" target="_blank"
-                  >CSS Grid Free course by <strong>Wes Bos</strong></a
-                >
+                <a href="https://cssgrid.io/" target="_blank">
+                  CSS Grid Free course by <strong>Wes Bos</strong>
+                </a>
               </td>
             </tr>
             <tr>
               <td colspan="2">
-                <a
-                  href="https://tympanus.net/codrops/css_reference/grid/"
-                  target="_blank"
-                  >CSS Grid Reference on <strong>Codrops</strong></a
-                >
+                <a href="https://tympanus.net/codrops/css_reference/grid/" target="_blank">
+                  CSS Grid Reference on <strong>Codrops</strong>
+                </a>
               </td>
             </tr>
             <tr>
               <td colspan="2">
-                <a href="http://cssgridgarden.com/" target="_blank"
-                  >CSS Garden</a
-                >
+                <a href="http://cssgridgarden.com/" target="_blank">CSS Garden</a>
               </td>
             </tr>
             <tr>
               <td colspan="2">
-                <a
-                  href="https://laracasts.com/series/css-grids-for-everyone"
-                  target="_blank"
-                  >CSS Grids for Everyone on <strong>laracasts</strong></a
-                >
+                <a href="https://laracasts.com/series/css-grids-for-everyone" target="_blank">
+                  CSS Grids for Everyone on <strong>laracasts</strong>
+                </a>
               </td>
             </tr>
           </tfoot>

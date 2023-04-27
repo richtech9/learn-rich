@@ -13,17 +13,17 @@
                 <h3 class="u-mb-20">Blogs to follow</h3>
                 <ul>
                   <li>
-                    <a href="https://tylermcginnis.com/blog/"
-                      >Tyler McGinnis Blog</a
-                    >
+                    <a href="https://tylermcginnis.com/blog/">
+                      Tyler McGinnis Blog
+                    </a>
                   </li>
                   <li>
                     <a href="https://2ality.com/">Dr. Axel Rauschmayer Blog</a>
                   </li>
                   <li>
-                    <a href="https://humanwhocodes.com/"
-                      >Nicholas C. Zakas Blog</a
-                    >
+                    <a href="https://humanwhocodes.com/">
+                      Nicholas C. Zakas Blog
+                    </a>
                   </li>
                   <li><a href="https://css-tricks.com/">CSS Tricks</a></li>
                   <li>
@@ -37,19 +37,19 @@
                 <ul>
                   <li><a href="https://caniuse.com/">Can I Use?</a></li>
                   <li>
-                    <a href="http://kangax.github.io/compat-table/es6/"
-                      >ECMAScript compatibility table</a
-                    >
+                    <a href="http://kangax.github.io/compat-table/es6/">
+                      ECMAScript compatibility table
+                    </a>
                   </li>
                   <li>
-                    <a href="https://tylermcginnis.com/javascript-visualizer/"
-                      >JavaScript Visualizer</a
-                    >
+                    <a href="https://tylermcginnis.com/javascript-visualizer/">
+                      JavaScript Visualizer
+                    </a>
                   </li>
                   <li>
-                    <a href="https://vanillajstoolkit.com/"
-                      >The Vanilla JS Toolkit</a
-                    >
+                    <a href="https://vanillajstoolkit.com/">
+                      The Vanilla JS Toolkit
+                    </a>
                   </li>
                   <li><a href="https://plainjs.com/">Plain JS</a></li>
                   <li><a href="https://html5test.com/">HTML5Test</a></li>
@@ -59,14 +59,14 @@
                 <h3 class="u-mb-20">Series</h3>
                 <ul>
                   <li>
-                    <a href="https://atom-morgan.github.io/javascript/"
-                      >Code Companion series by Adam Morgan</a
-                    >
+                    <a href="https://atom-morgan.github.io/javascript/">
+                      Code Companion series by Adam Morgan
+                    </a>
                   </li>
                   <li>
-                    <a href="https://javascript.christmas/"
-                      >Javascript Christmas</a
-                    >
+                    <a href="https://javascript.christmas/">
+                      Javascript Christmas
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -76,9 +76,9 @@
                   <li>
                     <a
                       href="https://dmitripavlutin.com/javascript-classes-complete-guide/"
-                      target="_blank"
-                      >The Complete Guide to JavaScript Classes</a
-                    >
+                      target="_blank">
+                      The Complete Guide to JavaScript Classes
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -88,9 +88,9 @@
                   <li>
                     <a
                       href="http://learnwith.hasinhayder.com/js/"
-                      target="_blank"
-                      >Begining JavaScript</a
-                    >
+                      target="_blank">
+                      Begining JavaScript
+                    </a>
                   </li>
                 </ul>
               </div>

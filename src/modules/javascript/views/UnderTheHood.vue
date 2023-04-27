@@ -84,20 +84,20 @@
                 <ul class="u-mt-20">
                   <li>
                     <a
-                      href="https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/"
-                      >Ultimate Guide on Execution Context by Tyler McGinnis</a
-                    >
+                      href="https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/">
+                      Ultimate Guide on Execution Context by Tyler McGinnis
+                    </a>
                   </li>
                   <li>
                     <a
-                      href="http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/"
-                      >Article of Dmitry Soshnikov</a
-                    >
+                      href="http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/">
+                      Article of Dmitry Soshnikov
+                    </a>
                   </li>
                   <li>
-                    <a href="https://medium.com/search?q=Execution%20Context"
-                      >Medium Search on Execution Context</a
-                    >
+                    <a href="https://medium.com/search?q=Execution%20Context">
+                      Medium Search on Execution Context
+                    </a>
                   </li>
                 </ul>
               </div>
