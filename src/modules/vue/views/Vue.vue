@@ -6,11 +6,11 @@
         >Back home</router-link
       >
 
-      <!-- Learn enough Vue -->
+      <!-- Learn rich Vue -->
       <div class="c-table-responsive">
         <table class="c-table">
           <caption>
-            Learn enough Vue
+            Learn rich Vue
           </caption>
           <tbody>
             <tr class="info">

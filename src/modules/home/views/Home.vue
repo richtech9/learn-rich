@@ -34,72 +34,72 @@
 <script>
 const subjects = [
   {
-    title: "Learn enough command line",
+    title: "Learn rich command line",
     description:
-      "Learn enough command-line to work with unix environments and windows command prompt.",
+      "Learn rich command-line to work with unix environments and windows command prompt.",
     icon: "fas fa-terminal",
     link: { name: "CommandLine" },
   },
   {
-    title: "Learn enough text editor",
+    title: "Learn rich text editor",
     description:
       "Learn the basics functionality and Keyboard shortcuts of all the modern text-editor has.",
     icon: "fas fa-edit",
     link: { name: "TextEditor" },
   },
   {
-    title: "Learn enough Git",
+    title: "Learn rich Git",
     description:
-      "Learn enough Git to collborate in projects and work with fellow team members. Learn most used git commands in day-to-day basis.",
+      "Learn rich Git to collborate in projects and work with fellow team members. Learn most used git commands in day-to-day basis.",
     icon: "fab fa-git-square",
     link: { name: "Git" },
   },
   {
-    title: "Learn enough CSS",
+    title: "Learn rich CSS",
     description:
-      "Learn enough CSS to create amazing layouts, animations and designs of your site.",
+      "Learn rich CSS to create amazing layouts, animations and designs of your site.",
     icon: "fab fa-css3-alt",
     link: { name: "Css" },
   },
   {
-    title: "Learn enough JavaScript",
+    title: "Learn rich JavaScript",
     description:
-      "Learn enough JavaScript to know how to solve problems using documentation. Understand the fundamental concepts.",
+      "Learn rich JavaScript to know how to solve problems using documentation. Understand the fundamental concepts.",
     icon: "fab fa-js-square",
     link: { name: "JavaScript" },
   },
   {
-    title: "Learn enough PHP",
+    title: "Learn rich PHP",
     description:
-      "Learn enough PHP to build simple yet beautiful working websites. Learn the similarities between JavaScript and PHP.",
+      "Learn rich PHP to build simple yet beautiful working websites. Learn the similarities between JavaScript and PHP.",
     icon: "fab fa-php",
     link: { name: "Php" },
   },
   {
-    title: "Learn enough WordPress",
+    title: "Learn rich WordPress",
     description:
-      "Learn enough WordPress to create any type of website as quickly as possible.",
+      "Learn rich WordPress to create any type of website as quickly as possible.",
     icon: "fab fa-wordpress",
     link: { name: "WordPress" },
   },
   {
-    title: "Learn enough Vue JS",
+    title: "Learn rich Vue JS",
     description:
-      "Learn enough Vue to create single page applications as well as multi-page application.",
+      "Learn rich Vue to create single page applications as well as multi-page application.",
     icon: "fab fa-vuejs",
     link: { name: "Vue" },
   },
   {
-    title: "Learn enough HTML Email",
+    title: "Learn rich HTML Email",
     description:
-      "Learn enough HTML email to build amazing custom HTML email templates which display properly across various email clients.",
+      "Learn rich HTML email to build amazing custom HTML email templates which display properly across various email clients.",
     icon: "fas fa-envelope-open-text",
     link: { name: "HtmlEmail" },
   },
   {
-    title: "Learn enough regular expressionss",
+    title: "Learn rich regular expressionss",
     description:
-      "Learn enough regular expressionss to match any patterns in a large block of text string.",
+      "Learn rich regular expressionss to match any patterns in a large block of text string.",
     icon: "fas fa-search",
     link: { name: "Regex" },
   },

@@ -17,7 +17,7 @@ module.exports = {
   // Set site title
   chainWebpack: (config) => {
     config.plugin("html").tap((args) => {
-      args[0].title = "Learn Enough";
+      args[0].title = "Learn Rich";
       return args;
     });
   },

@@ -9,7 +9,7 @@
       <div class="c-table-responsive">
         <table class="c-table">
           <caption>
-            Learn enough Git
+            Learn rich Git
           </caption>
           <thead>
             <tr>

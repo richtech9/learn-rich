@@ -11,14 +11,14 @@ const routes = [
   {
     path: "/",
     name: "Home",
-    meta: { title: "Home | Learn Enough" },
+    meta: { title: "Home | Learn Rich" },
     component: () =>
       import(/* webpackChunkName: "home" */ "../modules/home/views/Home.vue"),
   },
   {
     path: "/command-line",
     name: "CommandLine",
-    meta: { title: "Command Line | Learn Enough" },
+    meta: { title: "Command Line | Learn Rich" },
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
@@ -30,7 +30,7 @@ const routes = [
   {
     path: "/text-editor",
     name: "TextEditor",
-    meta: { title: "Text Editor | Learn Enough" },
+    meta: { title: "Text Editor | Learn Rich" },
     component: () =>
       import(
         /* webpackChunkName: "text-editor" */ "../modules/text-editor/views/TextEditor.vue"
@@ -39,21 +39,21 @@ const routes = [
   {
     path: "/git",
     name: "Git",
-    meta: { title: "Git | Learn Enough" },
+    meta: { title: "Git | Learn Rich" },
     component: () =>
       import(/* webpackChunkName: "git" */ "../modules/git/views/Git.vue"),
   },
   {
     path: "/css",
     name: "Css",
-    meta: { title: "CSS | Learn Enough" },
+    meta: { title: "CSS | Learn Rich" },
     component: () =>
       import(/* webpackChunkName: "css" */ "../modules/css/views/Css.vue"),
   },
   {
     path: "/javascript",
     name: "JavaScript",
-    meta: { title: "JavaScript | Learn Enough" },
+    meta: { title: "JavaScript | Learn Rich" },
     component: () =>
       import(
         /* webpackChunkName: "javascript" */ "../modules/javascript/views/JavaScript.vue"
@@ -62,14 +62,14 @@ const routes = [
   {
     path: "/php",
     name: "Php",
-    meta: { title: "PHP | Learn Enough" },
+    meta: { title: "PHP | Learn Rich" },
     component: () =>
       import(/* webpackChunkName: "php" */ "../modules/php/views/Php.vue"),
   },
   {
     path: "/wordpress",
     name: "WordPress",
-    meta: { title: "WordPress | Learn Enough" },
+    meta: { title: "WordPress | Learn Rich" },
     component: () =>
       import(
         /* webpackChunkName: "wordpress" */ "../modules/wordpress/views/WordPress.vue"
@@ -78,7 +78,7 @@ const routes = [
   {
     path: "/vue",
     name: "Vue",
-    meta: { title: "Vue | Learn Enough" },
+    meta: { title: "Vue | Learn Rich" },
     component: () =>
       import(
         /* webpackChunkName: "wordpress" */ "../modules/vue/views/Vue.vue"
@@ -87,7 +87,7 @@ const routes = [
   {
     path: "/html-email",
     name: "HtmlEmail",
-    meta: { title: "HTML Email | Learn Enough" },
+    meta: { title: "HTML Email | Learn Rich" },
     component: () =>
       import(
         /* webpackChunkName: "html-email" */ "../modules/html-email/views/HtmlEmail.vue"
@@ -96,7 +96,7 @@ const routes = [
   {
     path: "/regex",
     name: "Regex",
-    meta: { title: "Regex | Learn Enough" },
+    meta: { title: "Regex | Learn Rich" },
     component: () =>
       import(
         /* webpackChunkName: "regex" */ "../modules/regex/views/Regex.vue"
@@ -105,7 +105,7 @@ const routes = [
   {
     path: "/web-development",
     name: "WebDevelopment",
-    meta: { title: "Web Development | Learn Enough" },
+    meta: { title: "Web Development | Learn Rich" },
     component: () =>
       import(
         /* webpackChunkName: "web-development" */ "../modules/web-development/views/WebDevelopment.vue"
@@ -114,7 +114,7 @@ const routes = [
   {
     path: "*",
     name: "Not Found",
-    meta: { title: "404 | Learn Enough" },
+    meta: { title: "404 | Learn Rich" },
     component: NotFound,
   },
 ];

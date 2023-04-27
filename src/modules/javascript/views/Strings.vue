@@ -27,9 +27,9 @@
               </p>
               <h3 class="u-mt-40">Explanation</h3>
               <p>Whenever we try to access a property/method on a primitive string, JavaScript automatically converts the
-                primitive string into a string object. So, <code>'Saabbir.length'</code> converts into <code>new
-                  String('Saabbir').length</code> behind the scene. That's why we can access all of those string methods on a
-                primitive string like <strong>Saabbir</strong>.</p>
+                primitive string into a string object. So, <code>'Rich.length'</code> converts into <code>new
+                  String('Rich').length</code> behind the scene. That's why we can access all of those string methods on a
+                primitive string like <strong>Rich</strong>.</p>
             </div><!-- /.c-box -->
           </section>
 
@@ -41,7 +41,7 @@
 
               <h3 class="u-mt-40">Example:</h3>
               <p>
-                <pre class="language-javascript line-numbers"><code>new String('Saabbir Hossain')</code></pre>
+                <pre class="language-javascript line-numbers"><code>new String('Rich Tech')</code></pre>
               </p>
 
               <h3 class="u-mt-40">Note:</h3>

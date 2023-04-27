@@ -332,7 +332,7 @@
         </div>
         <!-- /.c-table-responsive -->
 
-        <!-- SUMMARY OF LEARN ENOUGH COMMAND LINE TO BE DANGEROUS -->
+        <!-- SUMMARY OF LEARN RICH COMMAND LINE TO BE DANGEROUS -->
         <div class="c-table-responsive">
           <table class="c-table">
             <caption>
@@ -340,7 +340,7 @@
               <a
                 href="https://www.learnenough.com/command-line-tutorial"
                 target="_blank"
-                >learn enough command line to be dangerous</a
+                >learn rich command line to be dangerous</a
               >
             </caption>
             <thead>
@@ -628,13 +628,13 @@
                   In the Git Bash on windows,
                   <code class="inline">~</code> (tilde) represents home
                   directory. Which is
-                  <code class="inline">/c/Users/Saabbir</code>
+                  <code class="inline">/c/Users/Rich</code>
                 </td>
               </tr>
               <tr>
                 <td>
                   In the Command Prompt on windows,
-                  <code class="inline">C:\Users\Saabbir></code> represents home
+                  <code class="inline">C:\Users\Rich></code> represents home
                   directory.
                 </td>
               </tr>

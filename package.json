@@ -1,7 +1,11 @@
 {
-  "name": "learn-enough",
+  "name": "learn-rich",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richtech9/learn-rich.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "dev": "npm run serve",

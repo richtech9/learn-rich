@@ -6,11 +6,11 @@
         >Back home</router-link
       >
 
-      <!-- Learn enough Vim -->
+      <!-- Learn rich Vim -->
       <div class="c-table-responsive">
         <table class="c-table">
           <caption>
-            Learn enough Vim
+            Learn rich Vim
           </caption>
           <thead>
             <tr>

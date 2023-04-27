@@ -6,11 +6,11 @@
         >Back home</router-link
       >
 
-      <!-- Learn enough regular expressions -->
+      <!-- Learn rich regular expressions -->
       <div class="c-table-responsive">
         <table class="c-table">
           <caption>
-            Learn enough regular expressions
+            Learn rich regular expressions
           </caption>
           <thead>
             <tr>
