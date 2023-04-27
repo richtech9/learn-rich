@@ -1,4 +1,4 @@
-ul.c-sidenav:not(.c-dropdown-menu) {
+ul.o-close-sidenav:not(.c-dropdown-menu) {
   width: 100%;
   max-width: 300px;
   background-color: transparent;
@@ -28,9 +28,9 @@ ul.c-sidenav:not(.c-dropdown-menu) {
     transition: .2s;
   }
 
-  &--is-open {
-    transform: translateX(0);
-  }
+  // &--is-open {
+  //   transform: translateX(0);
+  // }
 
   li:hover a,
   li.active a {
@@ -83,4 +83,8 @@ ul.c-sidenav:not(.c-dropdown-menu) {
   @media (min-width: 1024px) {
     display: none;
   }
+}
+
+ul.o-close-sidenav--is-open:not(.c-dropdown-menu) {
+  transform: translateX(0);
 }
